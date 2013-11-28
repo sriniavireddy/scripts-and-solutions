@@ -2,6 +2,9 @@
     Written By: Srinivas Avireddy
     Date : 11/28/2013
     This programs is used to for basic parsing of a RSS feed url
+    sample urls:
+    1. www1.billboard.com/rss/charts/hot-100
+    2. www.cricinfo.com/rss/livescores.xml
 """
 import feedparser
 
